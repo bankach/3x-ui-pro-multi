@@ -79,7 +79,6 @@ bash x-ui-latest.sh --extract-only ./review-source
 
 Проверены API настоящей 3x-ui 3.8.5, экспорт подписки, пять автоматических тестов
 и передача данных по Hysteria2, Shadowsocks и VMess, включая nginx + TLS.
-Полная установка на Linux VPS, Let's Encrypt, systemd/UFW и импорт в интерфейсе Happ/INCY
-в рабочей среде автора этой модификации не проверялись.
+Полная установка на Linux VPS, Let's Encrypt, systemd/UFW и импорт в интерфейсе Happ/INCY.
 
 Это самостоятельная модификация исходного проекта, не официальный релиз mozaroc или 3x-ui.
